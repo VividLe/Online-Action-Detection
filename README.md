@@ -68,5 +68,8 @@ python inference.py
 }
 ```
 
+# Related Projects
+- [BackTAL](https://github.com/VividLe/BackTAL): Background-Click Supervision for Temporal Action Localization.
+
 ## Contact
 For any discussions, please contact [nwpuyangle@gmail.com](mailto:nwpuyangle@gmail.com).
